@@ -8,5 +8,5 @@ step -3: install the streamlit
 
 step -4: load the joblib trained model file into streamlib
 
-after following the bellow instruction you can can attach any ML algorithm model to the streamlit for making web apps
+after following the above instruction you can can attach any ML algorithm model to the streamlit for making web apps
 
