@@ -1,0 +1,12 @@
+Steps to follow to make stramlit app with any ML algorithm
+
+step -1: train the model using a ML algorithm
+
+step -2: import the trained model file(serialization) using Joblib library
+
+step -3: install the streamlit
+
+step -4: load the joblib trained model file into streamlib
+
+after following the above instruction you can can attach any ML algorithm model to the streamlit for making web apps
+

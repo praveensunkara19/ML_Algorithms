@@ -1,0 +1,46 @@
+Data Set:
+
+The Supervised Algorithms data is based on the various features. i.e:
+the price of the single housed is based on
+[price	area	bedrooms	bathrooms	stories	mainroad	guestroom	basement	hotwaterheating	airconditioning	parking	prefarea	furnishingstatus]
+
+for linear and multi linear i have used only the starting features(columns) for easy understanding. so, the predicted and r2 score may not related or close to actual price. so, please try these linear and multy linear on only price dependent variables datasets.
+
+Why we build models
+
+usually we have some variable we substitute them in eqauation to get answers. i.e, x = 2, y = ax+b where a,b=[2,3], y = ?
+
+but in ML we have the x,y = [2,12] we need to find the equations i.e, 12 = m * 2 + c. m,c = ?  -- prediction function.
+
+Supervised learning:
+
+Regression:
+
+** Best fit line 
+** Predicted values are continuous
+
+1.Linear Regression -- (x,y)
+2.Multi Linear Regression ([x1,x2,x3...xn],y)
+3.Gradient Decent (mse,m,c)
+4.One-Hot Encoding (get_dummies,label_encoding)
+
+model.score()  -- model score
+
+mse - cost function
+r2_score
+accuracy_score()  - accuracy
+
+
+Classification
+
+** yes/no, true/false, type
+** predicted vlaues are categorical
+
+Binary Classification
+1.Logistic Regression  (y/n)
+
+2.Multi class classification (a or b or c)
+
+3.Decision Tree
+
+4.SVM 
