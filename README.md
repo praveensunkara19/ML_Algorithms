@@ -19,56 +19,56 @@ MachineLearning/
 ```
 ---
 
-## 📘 Supervised Learning
+## Supervised Learning
 
 Notebooks inside the `Supervised/` folder include:
 
-- 📊 `SimpleLinearRegression.ipynb`  
-- 🏠 `Multi_Linear_regression.ipynb`
-- 🌳 `DecisionTree.ipynb`, `RandomForest.ipynb`
-- 🔁 `Logistic_Regression.ipynb`
-- 🧠 `SVM.ipynb`
-- 🎯 `MultiClass_Classification.ipynb`
-- 🔢 `One-Hot Encoding.ipynb`
-- 🧮 `GradiantDecent.ipynb`
+- `SimpleLinearRegression.ipynb`  
+-  `Multi_Linear_regression.ipynb`
+- `DecisionTree.ipynb`, `RandomForest.ipynb`
+- `Logistic_Regression.ipynb`
+- `SVM.ipynb`
+- `MultiClass_Classification.ipynb`
+- `One-Hot Encoding.ipynb`
+- `GradiantDecent.ipynb`
 
 Model files like `.pkl` for reuse:
 - `multi_reg_model.pkl`
 - `simple_linear.pkl`
 ---
 
-## 🧪 Unsupervised Learning
+## Unsupervised Learning
 
-- 📉 `PCA.ipynb` — Principal Component Analysis for dimensionality reduction.
+- `PCA.ipynb` — Principal Component Analysis for dimensionality reduction.
 ---
 
 ## 🧰 ML Algorithms
-
-Handcrafted implementations and explanations of core ML algorithms (in progress).
+- Handcrafted implementations and explanations of core ML algorithms (in progress).
 ---
 
 ## 🔍 Data Visualization
-Contains tools and notebooks for understanding and visualizing dataset patterns.
+- Contains tools and notebooks for understanding and visualizing dataset patterns.
 ---
 
 ## 🐍 Python Basics
-Fundamental Python concepts relevant to ML workflows and experimentation.
----
 
+- Fundamental Python concepts relevant to ML workflows and experimentation.
+---
 ## 📁 Datasets
 
-Datasets used in projects.
+- Datasets used in projects.
 ---
 
 ## 🚀 Getting Started
 
+```bash
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/your-username/MachineLearning.git
    cd MachineLearning
 
 2. pip install -r requirements.txt
 
 3. jupyter notebook
-
+```
 ---
