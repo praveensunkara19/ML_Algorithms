@@ -39,6 +39,7 @@ Model files like `.pkl` for reuse:
 
 ## Unsupervised Learning
 
+- `K_means_Clustering.ipynb` - Partitions data into k distinct non-overlaping subgroups(Clusters).
 - `PCA.ipynb` — Principal Component Analysis for dimensionality reduction.
 ---
 
