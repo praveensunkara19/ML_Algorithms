@@ -7,11 +7,12 @@ This repository contains a comprehensive collection of Machine Learning projects
 ## 📁 Folder Structure
 ```
 MachineLearning/
-├── Datasets/               # Dataset 
-├── DataVisualization/      # visualization python codes
-├── Materials-Docs/         # Reference materials and documentation
-├── ML_Algorithms/          # Implementation of core ML algorithms
-├── PythonBasics/           # Foundational Python concepts
+├── Datasets/                       # Dataset 
+├── DataVisualization/              # visualization python codes
+├── Materials-Docs/                 # Reference materials and documentation
+├── Standadization(Normalization)   # Mea
+├── ML_Algorithms/                  # Implementation of core ML algorithms
+├── PythonBasics/                   # Foundational Python concepts
 ├── Supervised/             # Supervised Learning notebooks and models
 ├── Unsupervised/           # Unsupervised Learning notebooks
 ├── .gitignore              # Git ignored files
