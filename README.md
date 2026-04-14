@@ -10,13 +10,13 @@ MachineLearning/
 ├── Datasets/                       # Dataset 
 ├── DataVisualization/              # visualization python codes
 ├── Materials-Docs/                 # Reference materials and documentation
-├── Standadization(Normalization)   # Mea
+├── Standadization(Normalization)   # Mean-Varience-SD & Scaling
 ├── ML_Algorithms/                  # Implementation of core ML algorithms
 ├── PythonBasics/                   # Foundational Python concepts
-├── Supervised/             # Supervised Learning notebooks and models
-├── Unsupervised/           # Unsupervised Learning notebooks
-├── .gitignore              # Git ignored files
-└── README.md               # Project overview
+├── Supervised/                     # Supervised Learning notebooks and models
+├── Unsupervised/                   # Unsupervised Learning notebooks
+├── .gitignore                      # Git ignored files
+└── README.md                       # Project overview
 ```
 ---
 
@@ -45,7 +45,7 @@ Model files like `.pkl` for reuse:
 ---
 
 ## 🧰 ML Algorithms
-- Handcrafted implementations and explanations of core ML algorithms (in progress).
+- Handcrafted implementations and explanations of core ML algorithms.
 ---
 
 ## 🔍 Data Visualization
