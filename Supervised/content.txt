@@ -24,11 +24,14 @@ Regression:
 3.Gradient Decent (mse,m,c)
 4.One-Hot Encoding (get_dummies,label_encoding)
 
+Accuracy Calculations:
+
 model.score()  -- model score
 
 mse - cost function
 r2_score
-accuracy_score()  - accuracy
+
+** Can't use accuracy_score()  for regression models, because model give the decimal values. this is only useful for classification/\/\.
 
 
 Classification
@@ -44,3 +47,7 @@ Binary Classification
 3.Decision Tree
 
 4.SVM 
+
+Accuracy Calculations:
+
+accuracy_score()  - accuracy

@@ -24,7 +24,7 @@ MachineLearning/
 Notebooks inside the `Supervised/` folder include:
 
 - `SimpleLinearRegression.ipynb`  
--  `Multi_Linear_regression.ipynb`
+- `Multi_Linear_regression.ipynb`
 - `DecisionTree.ipynb`, `RandomForest.ipynb`
 - `Logistic_Regression.ipynb`
 - `SVM.ipynb`
